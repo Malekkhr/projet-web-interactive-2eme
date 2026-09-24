@@ -1,0 +1,9 @@
+.body{
+    color : red;
+    background-color: blue;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    flex-direction: calc();
+
+}
