@@ -1,9 +1,48 @@
-.body{
+.title1{
     color : red;
     background-color: blue;
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     flex-direction: calc();
+    width: 100px;
+    background-color: rgb(245, 163, 62);
+}
+.title2{
+    color : blue;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    flex-direction: calc();
 
+
+}
+.title3{
+    color : red;
+    background-color: blue;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    flex-direction: calc();
+    width: 100px;
+    background-color: rgb(111, 195, 255);
+    padding: 100px;
+    display: inline-block;   
+    margin-top: 100px;      
+    margin-right: 100px; 
+}
+.title4{
+    display: flex;      
+    gap: 100px;         
+    margin-top: 100px;  
+}
+.title5{
+    color : rgb(237, 9, 161);
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    flex-direction: calc();
+}
+h1 {
+    text-align: center;
 }
